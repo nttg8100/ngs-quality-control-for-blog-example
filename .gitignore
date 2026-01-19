@@ -20,4 +20,4 @@ bin-release/
 .pixi/*
 !.pixi/config.toml
 data
-
+result
