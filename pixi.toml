@@ -9,3 +9,4 @@ version = "0.1.0"
 [dependencies]
 fastqc = ">=0.12.1,<0.13"
 multiqc = ">=1.33,<2"
+act = ">=0.2.84,<0.3"
